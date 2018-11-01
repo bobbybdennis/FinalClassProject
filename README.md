@@ -1,4 +1,4 @@
-# FinalProject (NAME IN PROGRESS)
+# FinalProject (Command Buddy)
 
 
 
